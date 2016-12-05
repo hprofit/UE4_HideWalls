@@ -1,0 +1,5 @@
+*.sln
+*.sdf
+*.vs
+Intermediate/
+Saved/

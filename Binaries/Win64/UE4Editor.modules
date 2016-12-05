@@ -1,0 +1,9 @@
+{
+	"Changelist" : 3195953,
+	"CompatibleChangelist" : 0,
+	"BuildId" : "",
+	"Modules" : 
+	{
+		"HIdeWalls" : "UE4Editor-HIdeWalls-4198.dll"
+	}
+}
